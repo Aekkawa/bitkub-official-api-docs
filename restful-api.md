@@ -1,7 +1,8 @@
-
+1504351992
 # RESTful API for Bitkub (2020-06-26)
 
-# Releases
+# Releases 0991928014
+
 * 2021-05-28 Include ```is_maker``` in [POST /api/market/my-order-history](#post-apimarketmy-order-history)
 * 2021-01-16 [tradingview](#get-apimarkettradingview) endpoint is now deprecated and will be updated with a new endpoint soon. The old endpoint will always return empty result.
 * 2020-06-26 Added [place-bid/test](#post-apimarketplace-bidtest) and [place-ask/test](#post-apimarketplace-asktest)
